@@ -30,5 +30,13 @@
         "github": "https://github.com/exampleuser/examplerepo",
         "deployed": "http://example.com",
         "techStack": ["React", "Node", "Express", "MongoDB", "Ant Design"]
-    }
+    },
+    {
+        "title": "AARON PROJECT",
+        "description": "This is a description of Project One.",
+        "techStack": ["HTML", "CSS", "JavaScript"],
+        "github": "https://github.com/yourusername/project-one",
+        "deployed": "https://project-one-live.com",
+        "image": "/images/project-one.png"
+      }
 ]
